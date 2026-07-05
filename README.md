@@ -1,109 +1,142 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=Nishikant%20Pradhan&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Senior%20QA%20Automation%20Engineer%20%7C%20AI%20Engineer&descAlignY=60"/>
+<img src="assets/banner.png" width="100%" alt="Banner"/>
 
-# Hi there 👋
+<br/>
 
-### Senior QA Automation Engineer • AI Engineer • Playwright Specialist
+# Hi, I'm Nishikant Pradhan 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=00C853&center=true&vCenter=true&width=750&lines=Playwright+%7C+TypeScript+%7C+Selenium;AI+Testing+%7C+MCP+%7C+LLMs;Building+Scalable+Automation+Frameworks)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 💼 **6.5+ years** of experience in QA Automation & Software Testing
-- 🚀 Specialized in **Playwright, TypeScript, Selenium, Tosca**
-- 🤖 Building **AI-powered Test Automation** using **MCP & LLMs**
-- 🏗️ Experienced in designing scalable automation frameworks with **Cucumber BDD** and **POM**
-- ⚙️ Passionate about CI/CD, intelligent automation, and developer productivity
-
----
-
-## 🚀 Tech Stack
+### Senior QA Automation Engineer specializing in Playwright, TypeScript & AI-Augmented Testing
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=playwright" />
-<img src="https://skillicons.dev/icons?i=typescript" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=selenium" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=githubactions" />
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=azure" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=postman" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Senior+QA+Automation+Engineer;Playwright+%2B+TypeScript+%2B+BDD;US+Tax+%2F+FinTech+Domain+Expert;AI-Augmented+Testing+%7C+LLM+Integration;Building+Smarter+Test+Frameworks" />
 </p>
 
 <p align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=openai" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cucumber" height="48"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=openai" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cucumber" height="48"/>
-
-</p>
-
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true&area=true"/>
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/nishikantpradhan/">
+<a href="https://linkedin.com/in/nishikantpradhan">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:nishikantpradhan1996@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-
+<a href="https://github.com/nishikantpradhan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=nishikantpradhan&style=for-the-badge&color=0891b2"/>
+
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+- 🔭 **6.5+ years** of QA experience, specializing in **US Tax / FinTech** domain
+- 🎭 Deep expertise in **Playwright** automation across UI, API, and end-to-end workflows
+- 🤖 Actively building **AI-augmented testing** solutions — Playwright MCP, LLM-driven test generation, and agentic testing workflows
+- 🥒 Strong advocate for **BDD/Cucumber** to bridge QA and business stakeholders
+- ☁️ Comfortable across **CI/CD pipelines**, containerized environments, and cloud-based test execution
+- 🌱 Currently exploring **AI agents for autonomous test maintenance**
+- 💬 Ask me about: Playwright, Test Architecture, API Automation, or AI in QA
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Automation & Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=playwright,ts,js,python"/>
+</p>
+
+**BDD & Testing Frameworks**
+
+<img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-00BCD4?style=for-the-badge"/>
+
+**AI & Agentic Testing**
+
+<img src="https://img.shields.io/badge/LLM%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-FF6F00?style=for-the-badge"/>
+
+**Database**
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+**DevOps & CI/CD**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,azure"/>
+</p>
+
+**Tools & IDEs**
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,linux,jira,confluence"/>
+</p>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nishikantpradhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishikantpradhan&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishikantpradhan&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nishikantpradhan&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nishikantpradhan&theme=react-dark&hide_border=true"/>
+</p>
+
+<br/>
+
+## 💼 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🎭 **Playwright + TypeScript Framework** | Scalable UI automation framework with page object model & reporting |
+| 🐍 **Playwright + Python Framework** | Cross-browser automation suite built on Python |
+| 🔗 **API Automation Framework** | REST API test suite with schema & contract validation |
+| 🥒 **Pytest-BDD Framework** | Gherkin-based BDD suite for business-readable test scenarios |
+| 🐳 **Dockerized Automation Framework** | Containerized test execution for consistent CI environments |
+| ⚙️ **Jenkins CI/CD Pipeline** | Automated build-test-deploy pipeline with reporting integration |
+| 🤖 **AI-Augmented Testing (MCP)** | LLM-driven test generation using Playwright MCP & agentic workflows |
+
+<br/>
+
+## 📫 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/nishikantpradhan">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:nishikantpradhan1996@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/nishikantpradhan">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 <div align="center">
 
-### ⭐ *"Building intelligent automation with Playwright, AI, and modern QA practices."*
+> "Quality is never an accident; it is always the result of intelligent effort."
+
+### ⭐ If you find my work useful, consider starring my repositories!
 
 </div>
+
