@@ -22,8 +22,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
 ## 🚀 Tech Stack
 
 <p align="center">
@@ -40,6 +38,13 @@
 <img src="https://skillicons.dev/icons?i=azure" />
 <img src="https://skillicons.dev/icons?i=vscode" />
 <img src="https://skillicons.dev/icons?i=postman" />
+
+</p>
+
+<p align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=openai" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cucumber" height="48"/>
 
 </p>
 
