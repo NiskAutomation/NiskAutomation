@@ -1,8 +1,7 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Profile Banner" />
+</p>
 
-<img src="assets/banner.png" width="100%" alt="Banner"/>
-
-<br/>
 
 # Hi, I'm Nishikant Pradhan 👋
 
