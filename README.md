@@ -24,18 +24,30 @@
 
 ## 🛠️ Tech Stack
 
+## 🚀 Tech Stack
+
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,java,python,git,github,githubactions,docker,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=playwright" />
+<img src="https://skillicons.dev/icons?i=typescript" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=selenium" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=githubactions" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=azure" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=postman" />
 
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=playwright,typescript,javascript,java,selenium,git,github,githubactions,docker,azure,vscode,postman" />
-</p>
 
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=openai,cucumber" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=openai" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cucumber" height="48"/>
+
 </p>
 
 </p>
