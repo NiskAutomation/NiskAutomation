@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/banner.png" width="100%" alt="Profile Banner" />
-</p>
+
 
 <h1 align="center">Nishikant Pradhan</h1>
 <h3 align="center">Senior QA Automation Engineer — Playwright · TypeScript · AI-Augmented Testing</h3>
