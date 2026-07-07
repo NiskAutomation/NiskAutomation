@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Test+Frameworks;Playwright+Automation+Expert;AI-Driven+Testing+Solutions" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Test+Frameworks;Playwright+%26+TypeScript+Expert;AI-Driven+Testing+Innovation;Cloud-Native+Test+Automation" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Senior QA Automation Engineer** with **6.5+ years** of hands-on experience building and scaling test automation frameworks for **US Tax and FinTech platforms**. My expertise lies in designing robust, maintainable, and highly performant testing solutions that align with modern DevOps practices.
+I'm a **Senior QA Automation Engineer** with **6.5+ years** of hands-on experience building and scaling test automation frameworks for **US Tax and FinTech platforms**. My expertise lies in designing robust, maintainable, and AI-augmented testing solutions.
 
 I'm passionate about:
 - **Transforming QA with AI** — Leveraging LLMs and agentic approaches for intelligent test generation and autonomous test maintenance
@@ -39,7 +39,7 @@ I'm passionate about:
 
 ## 🛠️ Tech Stack
 
-### Core Testing & Automation
+### 🎯 Core Testing & Automation
 <div align="center">
 
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
@@ -49,35 +49,36 @@ I'm passionate about:
 
 </div>
 
-### Testing Frameworks & Tools
+### 🧪 Testing Frameworks & Tools
 <div align="center">
 
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-00BCD4?style=flat-square)
-![BDD](https://img.shields.io/badge/BDD%20Testing-7B68EE?style=flat-square)
+![REST API](https://img.shields.io/badge/REST%20API-00BCD4?style=flat-square&logo=web&logoColor=white)
+![BDD](https://img.shields.io/badge/BDD%20Testing-7B68EE?style=flat-square&logo=testing-library&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 </div>
 
-### AI & Advanced Testing
+### 🤖 AI & Advanced Testing
 <div align="center">
 
 ![LLM Integration](https://img.shields.io/badge/LLM%20Integration-412991?style=flat-square&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-000000?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6F00?style=flat-square)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-000000?style=flat-square&logo=brain&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6F00?style=flat-square&logo=robot&logoColor=white)
 
 </div>
 
-### Data & Databases
+### 💾 Data & Databases
 <div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 </div>
 
-### DevOps & CI/CD
+### 🚀 DevOps & CI/CD
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -89,7 +90,7 @@ I'm passionate about:
 
 </div>
 
-### Development & Productivity
+### 💻 Development & Productivity
 <div align="center">
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -122,6 +123,19 @@ I'm passionate about:
 | Page Object Model patterns | Containerized execution | LLM-powered debugging |
 | Parallel test execution | Cloud-native testing | Autonomous test maintenance |
 | API & UI automation | Performance monitoring | Emerging tech exploration |
+
+---
+
+## 📚 Featured Projects
+
+### 🎬 [Playwright Fundamentals](https://github.com/NiskAutomation/PlaywrightFundamentals)
+TypeScript-based learning resources and patterns for Playwright automation
+
+### 🧠 [LearnJavaScriptTypeScript](https://github.com/NiskAutomation/LearnJavaScriptTypeScript)
+Comprehensive guide to JavaScript, TypeScript, Playwright, Git, and AI integration
+
+### 🧪 [AITesterBlueprint](https://github.com/NiskAutomation/AITesterBlueprint)
+Blueprint for AI-augmented test automation frameworks
 
 ---
 
