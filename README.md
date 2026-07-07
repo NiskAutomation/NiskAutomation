@@ -1,12 +1,12 @@
 <h1 align="center">🎭 Nishikant Pradhan</h1>
-<h3 align="center">Senior QA Automation Engineer</h3>
+<h3 align="center">Senior QA Automation Engineer & AI Engineer</h3>
 
 <p align="center">
-  <strong>Playwright • TypeScript • Python • AI-Augmented Testing</strong>
+  <strong>Playwright • TypeScript • TOSCA • Azure DevOps • LLM • AI Automation</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Test+Frameworks;Playwright+%26+TypeScript+Expert;AI-Driven+Testing+Innovation;Cloud-Native+Test+Automation" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Test+Automation;Playwright+%26+TOSCA+Expert;AI-Driven+Testing+with+LLM;n8n+%26+Langflow+Automation;Cloud-Native+AI+Solutions" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -25,15 +25,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Senior QA Automation Engineer** with **6.5+ years** of hands-on experience building and scaling test automation frameworks for **US Tax and FinTech platforms**. My expertise lies in designing robust, maintainable, and AI-augmented testing solutions.
+🎭 **Hi, I'm Nishikant** 🧠 **Senior QA Automation Engineer** 🚀 **Playwright | TypeScript | Cucumber | POM** 🚗 **AI Testing | MCP | LLM | Agentic AI** ⚡ **CI/CD Specialist**
 
-I'm passionate about:
-- **Transforming QA with AI** — Leveraging LLMs and agentic approaches for intelligent test generation and autonomous test maintenance
-- **Building scalable frameworks** — Architecting solutions that grow with your product while maintaining code quality
-- **Cloud-native testing** — Implementing containerized, distributed test execution for rapid feedback cycles
-- **Developer experience** — Creating intuitive test tools and documentation that empower teams
-
-**Open to collaborations** on QA automation strategy, test framework design, and AI-driven testing innovations.
+**Location:** 📍 Hyderabad  
+**Timezone:** 🕐 UTC +05:30  
+**Connect:** 🔗 [in/nishikantpradhan](https://linkedin.com/in/nishikantpradhan)
 
 ---
 
@@ -43,9 +39,19 @@ I'm passionate about:
 <div align="center">
 
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
+![TOSCA](https://img.shields.io/badge/TOSCA-00A3E0?style=flat-square&logo=automation&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</div>
+
+### 🤖 AI & Advanced Testing
+<div align="center">
+
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-412991?style=flat-square&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-DA1C3D?style=flat-square&logo=n8n&logoColor=white)
+![Langflow](https://img.shields.io/badge/Langflow-00A4EF?style=flat-square&logo=flow&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6F00?style=flat-square&logo=robot&logoColor=white)
 
 </div>
 
@@ -56,16 +62,6 @@ I'm passionate about:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-00BCD4?style=flat-square&logo=web&logoColor=white)
 ![BDD](https://img.shields.io/badge/BDD%20Testing-7B68EE?style=flat-square&logo=testing-library&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-
-</div>
-
-### 🤖 AI & Advanced Testing
-<div align="center">
-
-![LLM Integration](https://img.shields.io/badge/LLM%20Integration-412991?style=flat-square&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-000000?style=flat-square&logo=brain&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6F00?style=flat-square&logo=robot&logoColor=white)
 
 </div>
 
@@ -81,12 +77,11 @@ I'm passionate about:
 ### 🚀 DevOps & CI/CD
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat-square&logo=azure-devops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
@@ -94,9 +89,10 @@ I'm passionate about:
 <div align="center">
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 
 </div>
 
@@ -115,14 +111,14 @@ I'm passionate about:
 
 ---
 
-## 🎓 Highlights
+## 🎓 Key Expertise
 
-| 🧪 Automation | 🚀 Infrastructure | 🤖 Innovation |
+| 🧪 Intelligent Automation | 🚀 AI Infrastructure | 🤖 Innovation |
 |---|---|---|
-| Enterprise test frameworks | CI/CD automation | AI-driven test generation |
-| Page Object Model patterns | Containerized execution | LLM-powered debugging |
-| Parallel test execution | Cloud-native testing | Autonomous test maintenance |
-| API & UI automation | Performance monitoring | Emerging tech exploration |
+| Playwright & TOSCA frameworks | Azure DevOps pipelines | LLM-powered test generation |
+| AI-driven test orchestration | n8n workflow automation | Langflow low-code AI |
+| Page Object Model patterns | Cloud-native testing | AI agent-based maintenance |
+| API & UI automation | Performance monitoring | Emerging AI-tech exploration |
 
 ---
 
@@ -135,7 +131,7 @@ TypeScript-based learning resources and patterns for Playwright automation
 Comprehensive guide to JavaScript, TypeScript, Playwright, Git, and AI integration
 
 ### 🧪 [AITesterBlueprint](https://github.com/NiskAutomation/AITesterBlueprint)
-Blueprint for AI-augmented test automation frameworks
+Blueprint for AI-augmented test automation frameworks with LLM integration
 
 ---
 
@@ -156,9 +152,9 @@ Blueprint for AI-augmented test automation frameworks
 ---
 
 <p align="center">
-  <em>"Quality is never an accident; it is always the result of intelligent effort."</em>
+  <em>"Quality is never an accident; it is always the result of intelligent effort empowered by AI."</em>
 </p>
 
 <p align="center">
-  <sub>Collaborating on next-generation QA automation, test framework innovation, and AI-driven testing solutions.</sub>
+  <sub>Building next-generation QA automation, intelligent test frameworks, and AI-driven solutions for enterprise testing challenges.</sub>
 </p>
