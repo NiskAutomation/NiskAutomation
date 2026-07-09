@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=200&section=header&text=Nishikant%20Pradhan&fontSize=42&animation=twinkling&fontColor=0F172A&desc=
-  Senior%20QA%20Automation%20Engineer%20%7C%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=200&section=header&text=Nishikant%20Pradhan&fontSize=42&animation=twinkling&fontColor=0F172A&desc=Senior%20QA%20Automation%20Engineer%20%7C%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Building+scalable+Playwright+automation+frameworks;Integrating+LLM+%26+AI+into+QA+pipelines;Automating+workflows+with+n8n+%26+Langflow;Open+to+new+opportunities" alt="Typing SVG" />
 
